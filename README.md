@@ -9,6 +9,7 @@ Example:
 
 * Run the below commands sequentially.
     composer install
+    npm install
     ./vendor/bin/sail build
     ./vendor/bin/sail up
 
